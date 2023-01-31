@@ -56,3 +56,19 @@
     border-radius: 5px;
     
 }
+
+@media(max-height:527px){
+    .fundo{
+        color: aliceblue;
+    }
+
+    /*Arrumar*/
+}
+
+@media(max-width:308px){
+    .fundo{
+       color: aqua;
+    }
+
+    /*Arrumar*/
+}
